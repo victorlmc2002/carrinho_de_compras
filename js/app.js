@@ -65,4 +65,3 @@ function limpar(){
     <span class="texto-azul"></span>  <span class="texto-azul"></span>
   </section>`;
 }
-
