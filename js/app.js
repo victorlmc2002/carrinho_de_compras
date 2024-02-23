@@ -64,4 +64,5 @@ function limpar(){
     textoQuantidade.innerHTML = `<section class="carrinho__produtos__produto">
     <span class="texto-azul"></span>  <span class="texto-azul"></span>
   </section>`;
+  document.getElementById("quantidade").value = 0;
 }
